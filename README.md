@@ -36,25 +36,25 @@ BlueTooth Traking System의 경우 가장 중요한 것은 정확한 데이터�
 
 #### 3-2. BroadCast Receiver
 
-- 개념
+- 개념  
 Broadcast Receiver는 특정 이벤트가 발생할 경우 알림을 주는 컴포넌트이다. 어느 특정 방송이 올때까지 대기하고 있다가 특정방송의 시그널이 나오면 기다렸던 action을 수행하는 일종의 event handler라고 볼 수 있다.
 
-- Bluetooth Broadcast Receiver
+- Bluetooth Broadcast Receiver  
 현재 안드로이드 스튜디오에서 제공하는 Bluetooth Broadcast Receiver를 활용하여 무선 이어폰 특성상 휴대폰과의 paring 과 unparing event를 기다리는 Broadcast Receiver를 생성했다. <br/><br/>
 
 
 #### 3-3.Database - SQLite
 
-- Database
+- Database  
 여러 사람이 공유하고 사용할 목적으로 통합 관리되는 정보의 집합이다. 몇 개의 자료 파일을 조직적으로 통합하여 자료 항목의 중복을 없애고 자료를 구조화 하여 기억시켜 놓은 자료의 집합체라고 할 수 있다.
 
-- SQLite
+- SQLite  
 SQLite는 MySQL이나 PostgreSQL과 같은 데이터베이스 관리 시스템이지만, 서버가 아니라 응용프로그램에 넣어 사용하는 비교적 가벼운 데이터베이스 시스템이다. 현재 안드로이드 스튜디오 내에도 SQLite를 넣어 활용 가능하다. <br/><br/>
 
 #### 3-4.GeoCording
-- Geocoding
+- Geocoding  
 Geocoding은 고유명칭을 가지고 위도와 경도의 좌표 값을 얻는 것을 말한다. 
-- Reverse Geocoding
+- Reverse Geocoding  
 Reverse Geocoding은 Geocoding과는 반대로 현재의 위도와 경도의 좌표를 통해 해당 주소의 고유명칭을 갖고 오는 것을 말한다. <br/><br/>
 
 
