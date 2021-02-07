@@ -51,10 +51,13 @@ Broadcast Receiver는 특정 이벤트가 발생할 경우 알림을 주는 컴�
 - SQLite  
 SQLite는 MySQL이나 PostgreSQL과 같은 데이터베이스 관리 시스템이지만, 서버가 아니라 응용프로그램에 넣어 사용하는 비교적 가벼운 데이터베이스 시스템이다. 현재 안드로이드 스튜디오 내에도 SQLite를 넣어 활용 가능하다. 
 
-- 도식화  
+- 도식화 <br/><br/>
 ![db](https://user-images.githubusercontent.com/60414900/107148707-0a149a80-6998-11eb-885b-5863118999d0.png) <br/><br/>
 
 #### 3-4.GeoCording
+
+![image](https://user-images.githubusercontent.com/60414900/107148772-611a6f80-6998-11eb-9c34-1742a4bca70a.png) <br/><br/>
+
 - Geocoding  
 Geocoding은 고유명칭을 가지고 위도와 경도의 좌표 값을 얻는 것을 말한다. 
 - Reverse Geocoding  
