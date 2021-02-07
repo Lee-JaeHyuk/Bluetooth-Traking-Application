@@ -54,15 +54,14 @@ SQLite는 MySQL이나 PostgreSQL과 같은 데이터베이스 관리 시스템�
 - 도식화 <br/><br/>
 ![db](https://user-images.githubusercontent.com/60414900/107148707-0a149a80-6998-11eb-885b-5863118999d0.png) <br/><br/>
 
-#### 3-4.GeoCording
-
-![image](https://user-images.githubusercontent.com/60414900/107148772-611a6f80-6998-11eb-9c34-1742a4bca70a.png) <br/><br/>
+#### 3-4.GeoCording  
 
 - Geocoding  
 Geocoding은 고유명칭을 가지고 위도와 경도의 좌표 값을 얻는 것을 말한다. 
 - Reverse Geocoding  
 Reverse Geocoding은 Geocoding과는 반대로 현재의 위도와 경도의 좌표를 통해 해당 주소의 고유명칭을 갖고 오는 것을 말한다. <br/><br/>
 
+![image](https://user-images.githubusercontent.com/60414900/107148772-611a6f80-6998-11eb-9c34-1742a4bca70a.png) <br/><br/>
 
 
 
